@@ -1,12 +1,12 @@
-__loadDisplayList__a31d960a([
+__loadDisplayList__b7c0edfc([
   {
-    "group": "common",
-    "name": "by_Municipio_Categoria",
-    "desc": "",
-    "n": 3049,
+    "group": "Municipio",
+    "name": "Control_de_precios_DANE",
+    "desc": "Indices construidos a nivel de municipio, \n                    representan el cambio en el precio del bien frente al 7 de abril de 2020.",
+    "n": 3071,
     "height": 500,
     "width": 500,
-    "updated": "2020-04-17 15:30:29",
-    "keySig": "c405f08b58c1b354d428e8bf6e02b86e"
+    "updated": "2020-04-20 17:28:11",
+    "keySig": "d7e1623f1e45904167d87d755081fac1"
   }
 ])
